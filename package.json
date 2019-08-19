@@ -1,8 +1,9 @@
 {
-  "name": "my-app",
+  "name": "whole-living",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -27,5 +28,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project aims to help users find a new potential neighborhood to move to that has a Whole Foods nearby and another must have.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Vivian Le",
+  "license": "ISC"
 }
